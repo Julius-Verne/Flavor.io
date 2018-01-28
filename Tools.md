@@ -16,3 +16,8 @@ Name | Description
 Name | Description
 -----|-------------
 [Chroma.js](https://gka.github.io/chroma.js/) | Generate automatic color palettes for your web projects
+
+## Web
+
+Name | Description
+[Blokks](https://blokks.co/how-it-works) | Create schedules, line ups on your websites.
