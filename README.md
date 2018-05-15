@@ -11,3 +11,4 @@ Maybe you can list your favorites too!
 Here is a little list of the list we have made :thinking:
 
 * [Tools](https://github.com/Julius-Verne/Flavor.io/blob/master/Tools.md)
+* [DataViz](https://github.com/Julius-Verne/Flavor.io/blob/master/DataViz.md)
