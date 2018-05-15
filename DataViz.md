@@ -6,4 +6,9 @@
 
 ## Publications
 
+## Talks
+
+* [Tidy Data & Bayesian Analysis make uncertainty fun](http://www.mjskay.com/presentations/openvisconf2018-bayes-uncertainty-2.pdf)
+  * Talk by Matthew Kay in OpenViz 2018
+
 ## People
